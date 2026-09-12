@@ -1,6 +1,6 @@
 # SQL Learning Journey
 
-SQL and PostgreSQL fundamentals through applied exercises, building toward backend/database engineering. Each lesson runs against a real PostgreSQL database, not just illustrative snippets.
+Structured SQL and PostgreSQL engineering progression covering relational data modeling, queries, transactions, database design, performance, and backend data engineering.
 
 ## Tech Stack
 
