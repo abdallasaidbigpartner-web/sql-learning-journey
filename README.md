@@ -28,3 +28,8 @@ Each lesson is a standalone SQL script, run against a local database:
 This repository is part of a structured learning path that also includes:
 - [python-learning-journey](https://github.com/abdallasaidbigpartner-web/python-learning-journey) - Python fundamentals through backend engineering, ML/DL, and Generative AI
 - [typescript-learning-journey](https://github.com/abdallasaidbigpartner-web/typescript-learning-journey) - TypeScript fundamentals through classes, async/await, and testing
+- [ai-study-assistant](https://github.com/abdallasaidbigpartner-web/ai-study-assistant) - capstone AI system using PostgreSQL for RAG and auth
+- [study-assistant-frontend](https://github.com/abdallasaidbigpartner-web/study-assistant-frontend) - React frontend for the AI Study Assistant
+- [task-manager-api](https://github.com/abdallasaidbigpartner-web/task-manager-api) - TypeScript backend capstone
+- [ecommerce-database](https://github.com/abdallasaidbigpartner-web/ecommerce-database) - SQL capstone built on these fundamentals (triggers, views, defense-in-depth constraints)
+- [url-shortener-go](https://github.com/abdallasaidbigpartner-web/url-shortener-go) - Go capstone
