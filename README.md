@@ -1,5 +1,7 @@
 # SQL Learning Journey
 
+![CI](https://github.com/abdallasaidbigpartner-web/sql-learning-journey/actions/workflows/ci.yml/badge.svg)
+
 Structured SQL and PostgreSQL engineering progression covering relational data modeling, queries, transactions, database design, performance, and backend data engineering.
 
 ## Tech Stack
