@@ -1,6 +1,6 @@
 # SQL Learning Journey
 
-![CI](https://github.com/abdallasaidbigpartner-web/sql-learning-journey/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/abdallasaidbigpartner-web/sql-learning-journey/actions/workflows/ci.yml/badge.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Structured SQL and PostgreSQL engineering progression covering relational data modeling, queries, transactions, database design, performance, and backend data engineering.
 
